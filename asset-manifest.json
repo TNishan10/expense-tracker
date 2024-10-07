@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TNishan10/expense-tracker.git/static/css/main.3131c544.css",
+    "main.js": "/TNishan10/expense-tracker.git/static/js/main.ef95ae3b.js",
+    "index.html": "/TNishan10/expense-tracker.git/index.html",
+    "main.3131c544.css.map": "/TNishan10/expense-tracker.git/static/css/main.3131c544.css.map",
+    "main.ef95ae3b.js.map": "/TNishan10/expense-tracker.git/static/js/main.ef95ae3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3131c544.css",
+    "static/js/main.ef95ae3b.js"
+  ]
+}
